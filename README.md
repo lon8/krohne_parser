@@ -17,7 +17,7 @@
 
     ```bash
     git clone https://github.com/lon8/krohne_parser.git
-    cd krohne-serial-processing
+    cd krohne_parser
     ```
 2. Создайте и активируйте виртуальное окружение (опционально):
     
